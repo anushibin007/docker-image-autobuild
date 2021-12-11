@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo "Hello JAS"
+CMD echo "Hello Anu Shibin"
